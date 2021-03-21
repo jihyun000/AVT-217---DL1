@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'bodonixtregular';
+    src: url('BodoniXT-webfont.woff') format('woff');        
+    font-weight: normal;
+    font-style: normal;
+	font-family: 'enigmaticregular';
+    src: url('Enigma__2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {font-family: 'bodonixtregular';}
+h2 {font-family: 'enigmaticregular'; }
