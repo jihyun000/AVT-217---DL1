@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+#wrapper {
+	width: auto;
+	
+	margin: auto;}
+
+.header{ background-image: url("../img/illustheader.jpg");
+		postition: relative;
+	background-repeat: no-repeat;
+		height:143px; width: 930px;
+	margin: auto;
+	
+			}
+
+.container {
+  
+  margin-left: 20px;
+	padding-right: 24px;
+  width: auto;
+	margin-bottom: 0;
+
+	
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: "";
+	
+	
+}
+
+/* Logo Text on the header */
+.topleft a {float: left; color: #f2f2f2;
+  text-align: center;
+	margin-top: 8px;
+	
+	
+  padding: 5px 8px;
+  text-decoration: none;
+  font-size: 35px; font-weight: bolder; font-family: Helvetica;}
+
+/* Navbar links */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+	margin-top: 15px;
+	
+  padding: 5px 16px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.topnav a:hover {
+  
+  color: black;
+}
+/* content starts */
+
+#gallery {
+	
+	width: 1000px;
+	
+	padding-left: 20px;
+	margin:0 auto;
+					}
+
+#gallery img {padding: 15px;}
+
+
+
+
+
+p {padding-top: 30px;}
+
+footer {background-color: lightgray; padding: 0; display: block; margin-top:200px;}
+
+.footer {padding: 0; text-align: center;}
+
+
